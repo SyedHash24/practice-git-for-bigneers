@@ -1,0 +1,8 @@
+testing file for github
+
+git config --global user.name "SYED HASHIR"
+
+
+git config --global user.email"syedhashirimranali@gmail.com"
+
+something more
